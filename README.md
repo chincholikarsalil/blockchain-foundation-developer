@@ -1,0 +1,1 @@
+This is a demo project developed as per the IBM Blockchain Foundation Developer V2 course module on cognitiveclass.io
